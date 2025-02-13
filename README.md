@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Jimmy Wu</h1>
 <h3 align="center">A passionate FrontEnd Developer from New York 🗽</h3>
-<h3 align="center"><a href="https://GITHUBNAME.github.io/personal-portfolio/">👉 Check out my portfolio! 😎</a></h3>
+<h3 align="center"><a href="https://jimmywu7.github.io/personal-portfolio/">👉 Check out my portfolio! 😎</a></h3>
 
 <img align="right" src="Coding.gif" alt="Alt Text" width="250"/>
 
