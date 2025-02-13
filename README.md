@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning about **Deep Learning and Reinforcement Learning**
 - 💬 Ask me about **Web Development, Python and Data Science**
 - 📫 How to reach me: **jwu229@buffalo.edu or jimmywu3201@gmail.com**
-- ⚡ Fun fact: **When I'm not coding, you can find me playing Brawl Stars, Pokemon TCG Pocket, watching Anime and vibing to K-pop music.**
+- ⚡ Fun fact: **When I'm not coding, you can find me playing Brawl Stars, <br> Pokemon TCG Pocket, watching Anime and vibing to K-pop music.**
 
 
 <h3 align="left">Connect with me:</h3>
