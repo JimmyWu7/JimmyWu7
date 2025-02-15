@@ -1,15 +1,17 @@
-<h1 align="center">Hey there 👋, I'm Jimmy Wu</h1>
-<h3 align="center">A passionate FrontEnd Developer from New York 🗽</h3>
-<h3 align="center"><a href="https://jimmywu7.github.io/personal-portfolio/">👉 Check out my portfolio! 😎</a></h3>
+<h1 align="center">Hey there <img src="assets/waving.gif" width="30" height="30">, I'm Jimmy Wu</h1>
 
-<img align="right" src="Coding.gif" alt="Alt Text" width="250"/>
+<h3 align="center">A passionate Full Stack Developer from New York 🗽</h3>
+
+<h3 align="center"><a href="https://jimmywu7.github.io/personal-portfolio/">👉 Check out my portfolio! <img src="assets/sunglasses-emoji.gif" width="20" height="20"></a></h3>
+
+<img align="right" src="assets/busy.gif" alt="Alt Text" width="250"/>
 
 - 🔭 I’m interested in **Web Development, Artificial Intelligence and Machine Learning**
 - 🌱 I’m currently learning about **Deep Learning and Reinforcement Learning**
 - 💬 Ask me about **Web Development, Python and Data Science**
-- 📫 How to reach me: **jwu229@buffalo.edu or jimmywu3201@gmail.com**
-- ⚡ Fun fact: **When I'm not coding, you can find me playing Brawl Stars, <br> Pokemon TCG Pocket, watching Anime and vibing to K-pop music.**
-
+- 📫 How to reach me: **jimmywu3201@gmail.com**
+- ⚡ Fun fact: **When I'm not coding, you can find me playing Brawl Stars,
+  Pokemon TCG Pocket, watching Anime and vibing to K-pop music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
