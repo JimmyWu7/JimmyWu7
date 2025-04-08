@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Full Stack Developer from New York 🗽</h3>
 
-<h3 align="center"><a href="https://jimmywu7.github.io/personal-portfolio/" target="_blank" rel="noopener noreferrer">👉 Check out my portfolio! </a><img src="assets/sunglasses-emoji.gif" width="20" height="20"></h3>
+<h3 align="center"><a href="https://jimmywu7.com" target="_blank" rel="noopener noreferrer">👉 Check out my portfolio! </a><img src="assets/sunglasses-emoji.gif" width="20" height="20"></h3>
 
 <img align="right" src="assets/busy.gif" alt="Alt Text" width="250"/>
 
